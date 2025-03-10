@@ -1,6 +1,6 @@
-##PHP Database Connection and Account Class
+## PHP Database Connection and Account Class
 
-#Example Usage
+# Example Usage
 ```
 <?php
 
