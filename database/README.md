@@ -1,7 +1,7 @@
 ## PHP Database Connection and Account Class
 
 # Example Usage
-```
+```php
 <?php
 
 // Include the classes
