@@ -1,0 +1,6 @@
+{
+    "require": {
+        "league/oauth2-server": "^9.2",
+        "nyholm/psr7": "^1.8"
+    }
+}
